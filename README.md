@@ -1,4 +1,4 @@
-# Dice-Game-C-
+# Dice-Game-C++
 My name is Cadell J and I'll be building a DIce game in C++
 
 ## Personal Goals
@@ -10,4 +10,4 @@ Be good...No great at what I do.
 C++, HTML5, CSS, Javascript, Python, gitbash, and github.
 
 #### Credit
-This was made possible by who gave the idea and run down on building the dice game
+This was made possible by who gave the idea and run down on building the dice game.

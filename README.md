@@ -1,5 +1,5 @@
 # Dice-Game-C++
-My name is Cadell J and I'll be building a DIce game in C++
+My name is Cadell J and I'll be building a Dice game in C++
 
 ## Personal Goals
 My personal goal is to code more and think like a programmer.
